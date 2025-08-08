@@ -1,20 +1,20 @@
 # ⚙️ - Aprendizado em C
 
-Este repositório é a documentação do meu aprendizado na Linguagem C, com exercícios comentados e anotações de acordo com os tópicos que eu for estudando. O intuito da criação desta documentação é para que toda minha evolução na linguagem seja explícita e mostrada passo a passo.
+Este repositório é a documentação do meu aprendizado na Linguagem C, com exercícios comentados e anotações de acordo com os tópicos que eu for estudando. O intuito desta documentação é registrar minha evolução na linguagem e mostrá-la passo a passo.
 
 ---
 
 ## ⚠️ - Avisos
-- Os exercícios que forem resolvidos serão postados todos com comentários e enunciados;
+- Os exercícios que forem resolvidos serão todos postados com comentários e enunciados;
 - O repositório seguirá sendo sempre atualizado;
-- Os exercícios serão retirados de plataformas como beecrowd, sempre com o endereço para o excercício;
+- Os exercícios serão retirados de plataformas como Beecrowd, sempre com o link para o exercício.
 
 ---
 
-## 📖 - Assuntos arbodados
-- [ ] Estrutura básica de um programa em C (`main`, `#include`, comentários)
-- [ ] Entrada e saída de dados (`printf`, `scanf`)
-- [ ] Variáveis e tipos de dados primitivos (`int`, `float`, `char`, `double`)
+## 📖 - Assuntos abordados
+- [ ] Estrutura básica de um programa em C 
+- [ ] Entrada e saída de dados 
+- [ ] Variáveis e tipos de dados primitivos 
 - [ ] Operadores aritméticos, relacionais e lógicos
 - [ ] Estruturas condicionais 
 - [ ] Loops 
@@ -29,8 +29,9 @@ Este repositório é a documentação do meu aprendizado na Linguagem C, com exe
 ---
 
 ## 🖥️ - Programas
-Caso queira visualizar o funcionamento de algum dos códigos apresentados, basta baixar o arquivo e rodar o seguinte no terminal (contando que tenhas um compilador C instalado):
-```
+Caso queira visualizar o funcionamento de algum dos códigos apresentados, basta baixar o arquivo e rodar o seguinte no terminal (desde que tenha um compilador C instalado):
+
+```bash
 gcc nome_do_arquivo.c -o programa
 ./programa
 ```
