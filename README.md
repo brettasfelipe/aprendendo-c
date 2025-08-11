@@ -12,19 +12,19 @@ Este repositório é a documentação do meu aprendizado na Linguagem C, com exe
 ---
 
 ## 📖 - Assuntos abordados
-- [ ] Estrutura básica de um programa em C 
-- [ ] Entrada e saída de dados 
-- [ ] Variáveis e tipos de dados primitivos 
-- [ ] Operadores aritméticos, relacionais e lógicos
-- [ ] Estruturas condicionais 
-- [ ] Loops 
-- [ ] Escopo de variáveis (local e global)
-- [ ] Funções (declaração, parâmetros, retorno)
-- [ ] Arrays (vetores e matrizes)
-- [ ] Strings 
-- [ ] Ponteiros (conceito e uso básico)
-- [ ] Estruturas 
-- [ ] Manipulação de arquivos 
+- ✅ Estrutura básica de um programa em C 
+- ✅ Entrada e saída de dados 
+- ✅ Variáveis e tipos de dados primitivos 
+- ⬜ Operadores aritméticos, relacionais e lógicos
+- ✅ Estruturas condicionais 
+- ✅ Loops 
+- ⬜ Escopo de variáveis (local e global)
+- ⬜ Funções (declaração, parâmetros, retorno)
+- ⬜ Arrays (vetores e matrizes)
+- ⬜ Strings 
+- ⬜ Ponteiros (conceito e uso básico)
+- ⬜ Estruturas 
+- ⬜ Manipulação de arquivos 
 
 ---
 
