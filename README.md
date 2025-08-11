@@ -15,7 +15,7 @@ Este repositório é a documentação do meu aprendizado na Linguagem C, com exe
 - ✅ Estrutura básica de um programa em C 
 - ✅ Entrada e saída de dados 
 - ✅ Variáveis e tipos de dados primitivos 
-- ⬜ Operadores aritméticos, relacionais e lógicos
+- ✅ Operadores aritméticos, relacionais e lógicos
 - ✅ Estruturas condicionais 
 - ✅ Loops 
 - ⬜ Escopo de variáveis (local e global)
