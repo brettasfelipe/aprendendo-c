@@ -15,7 +15,7 @@ link: https://judge.beecrowd.com/pt/problems/view/2006
 Felipe Brettas, 10 de Agosto de 2025
 */
 
-#include <stdio.h>
+#include <stdio.h> // Incluindo a biblioteca Standar Input/Output
 
 int main() {
     int i = 0, corretas = 0, cha, respostas[6]; // Inicialização das variáveis, todas como números inteiros e um array de inteiros (respostas)
